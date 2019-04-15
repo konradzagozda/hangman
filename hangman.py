@@ -1,5 +1,6 @@
 import random
 
+# this is a comment XDDD gitcik co
 
 pictures = [
     """
