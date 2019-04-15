@@ -1,6 +1,7 @@
 import random
 
 # this is a comment XDDD gitcik co
+# no to komencik nastepny tu se pisze
 
 pictures = [
     """
